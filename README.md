@@ -1,4 +1,4 @@
-# C-Shell 🐚
+# Advanced C-Shell 🐚
 
 A feature-rich Unix shell implementation in C with advanced process management, I/O redirection, piping, and networking capabilities.
 
@@ -82,8 +82,8 @@ The shell is structured in a modular fashion with separate components for:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Akshaybunny18/C-Shell.git
-   cd C-Shell
+   git clone https://github.com/Akshaybunny18/Advanced_C-Shell.git
+   cd Advanced_C-Shell
    ```
 
 2. **Build the shell**
@@ -364,7 +364,7 @@ Test results are available in:
 ## 📁 Project Structure
 
 ```
-C-Shell/
+Advanced_C-Shell/
 ├── shell/                      # Main shell implementation
 │   ├── src/
 │   │   ├── main.c             # Entry point and main loop
