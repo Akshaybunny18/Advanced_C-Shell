@@ -508,7 +508,7 @@ Educational project - IIIT Hyderabad Operating Systems and Networks course.
 **Chanda Akshay Kumar**
 - GitHub: [@Akshaybunny18](https://github.com/Akshaybunny18)
 - Institution: IIIT Hyderabad
-- Course: Operating Systems and Networks (Monsoon 2024)
+- Course: Operating Systems and Networks (Monsoon 2025)
 
 ## 🙏 Acknowledgments
 
