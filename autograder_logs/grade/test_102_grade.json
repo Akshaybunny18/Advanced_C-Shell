@@ -1,0 +1,14 @@
+{
+    "test_id": "test_102",
+    "section": "D.2",
+    "description": "Tests that a background command that fails produces an 'exited abnormally' message.",
+    "passed": false,
+    "failure": {
+        "step_index": 1,
+        "command": "echo check abnormal exit",
+        "reason": "Insufficient output lines for sequential check.",
+        "expected": 1,
+        "actual": 2
+    },
+    "score": 0.0
+}

@@ -1,0 +1,14 @@
+{
+    "test_id": "test_11",
+    "section": "A.3",
+    "description": "Tests a long, valid chain of sequential commands ending in a background operator.",
+    "passed": false,
+    "failure": {
+        "step_index": -1,
+        "command": "Global Execution",
+        "reason": "Test runner encountered an error (see raw logs).",
+        "expected": null,
+        "actual": null
+    },
+    "score": 0.0
+}
